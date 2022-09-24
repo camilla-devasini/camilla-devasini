@@ -16,7 +16,7 @@
 
 <h4>About me:</h4>
 
-Coming from then financial field, I have decided to make a big change pursuing my passion about <strong>Web Development 💻🖤</strong>
+Coming from the financial field, I have decided to make a big change pursuing my passion about <strong>Web Development. 💻🖤</strong>
 I am committed to learn more and more, to be part of a collaborative team and to learn soon "the tricks of the trade".
 
 <h4>Programming languages & technologies I am studying:</h4>
