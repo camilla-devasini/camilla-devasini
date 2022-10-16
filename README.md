@@ -3,12 +3,12 @@
 </h3>
 
 <h3 align="center">
-  I am Camilla, Junior Full-Stack Developer from Italy 
+  I am Camilla, Junior Full-Stack Developer
 </h3>
 
 
 <div id="gif" align="center">
-  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="200"/>
+  <!--<img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="200"/>-->
 </div>
 
 
