@@ -18,7 +18,7 @@
 
 Coming from the financial field, I have decided to make a big change pursuing my passion about <strong>Web Development. 💻🖤</strong>
 I am committed to learn more and more, to be part of a collaborative team and to learn soon "the tricks of the trade".
-
+<h4> Now developing a web applciation similar to PancakeSwap platform: <a href="https://github.com/camilla-devasini/pancakeswap-react-app.git"></a></h4>
 <h4>Programming languages & technologies I am studying:</h4>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
