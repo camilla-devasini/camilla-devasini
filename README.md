@@ -3,7 +3,7 @@
 </h3>
 
 <h3 align="center">
-  I am Camilla, Junior Front-end Developer
+  I am Camilla, Front-end Developer
 </h3>
 
 
