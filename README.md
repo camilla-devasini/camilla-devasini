@@ -14,7 +14,6 @@
 
 ---
 
-<h4>About me:</h4>
 
 Coming from the financial field, I have decided to make a big change pursuing my passion about <strong>Web Development. 💻🖤</strong>
 I am committed to learn more and more during this exciting journey.
