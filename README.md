@@ -15,7 +15,7 @@
 ---
 
 
-<p>Coming from the financial field, I have decided to make a big change pursuing my passion about <strong>Web Development</strong>
+<p>Coming from the financial field, I have decided to make a big change, pursuing my passion about <strong>Web Development,</strong>
 and I am committed to learn more and more during this exciting journey. 💻🖤 </p>
 
 <p>In my spare time i am currently working on a personal project: building a React.js corporate and presentational website:  https://github.com/LeL-Corp/microel </p>
