@@ -18,7 +18,14 @@
 
 Coming from the financial field, I have decided to make a big change pursuing my passion about <strong>Web Development. 💻🖤</strong>
 I am committed to learn more and more during this exciting journey.
-<font color="blue>Currently working mainly with React.js on the presentational corporate website: https://github.com/LeL-Corp/microel</font>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ In my spare time i am currently working on this personal project that represents a presentational corporate website https://github.com/LeL-Corp/microel @@
+```
+
 <h4>Programming languages & technologies:</h4>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
