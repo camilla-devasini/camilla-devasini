@@ -19,10 +19,6 @@
 Coming from the financial field, I have decided to make a big change pursuing my passion about <strong>Web Development. 💻🖤</strong>
 I am committed to learn more and more during this exciting journey.
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
 @@ In my spare time i am currently working on this personal project that represents a presentational corporate website https://github.com/LeL-Corp/microel @@
 ```
 
