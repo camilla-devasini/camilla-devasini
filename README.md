@@ -33,5 +33,5 @@ I am committed to learn more and more during this exciting journey.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" width="40" height="40"/>
 </div>
-Check out my career updates on my LinkedIn profile:  <a href="https://www.linkedin.com/in/camilla-devasini-739a3a152/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+Check out my career updates on my LinkedIn profile:  <a href="https://www.linkedin.com/in/camilla-devasini-739a3a152/"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
