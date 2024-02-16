@@ -18,9 +18,8 @@
 
 Coming from the financial field, I have decided to make a big change pursuing my passion about <strong>Web Development. 💻🖤</strong>
 I am committed to learn more and more during this exciting journey.
-```diff
-@@ In my spare time i am currently working on this personal project that represents a presentational corporate website https://github.com/LeL-Corp/microel @@
-```
+$${\color{blue}In \space my \space spare \space time \space i \space am \space currently \space working \space on \space this \space personal \space project \space that \space represents \space a \space presentational \space corporate \space website \space https://github.com/LeL-Corp/microel$$
+
 
 <h4>Programming languages & technologies:</h4>
 <div>
