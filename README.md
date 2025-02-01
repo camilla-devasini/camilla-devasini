@@ -3,7 +3,7 @@
 </h3>
 
 <h3 align="center">
-  I am Camilla, Front-end Developer
+  I am Camilla, Full-Stack Developer
 </h3>
 
 
@@ -15,10 +15,8 @@
 ---
 
 
-<p>Coming from the financial field, I have decided to make a big change, pursuing my passion about <strong>Web Development,</strong>
-and I am committed to learn more and more during this exciting journey. 💻🖤 </p>
+<p>Coming from the financial field, I am now a Full Stack Developer 💻🖤 </p>
 
-<p>In my spare time I am currently working on a personal project: building a React.js corporate and presentational website:  https://github.com/LeL-Corp/microel </p>
 
 <h4>Programming languages & technologies:</h4>
 <div>
@@ -27,6 +25,7 @@ and I am committed to learn more and more during this exciting journey. 💻🖤
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="mysql" width="40" height="40"/>&nbsp;
